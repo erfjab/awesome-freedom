@@ -30,6 +30,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [Furious](https://github.com/LorenEteval/Furious) by [@LorenEteval](https://github.com/LorenEteval)
 - [hiddify-next](https://github.com/hiddify/hiddify-next) by [@hiddify](https://github.com/hiddify)
 - [v2rayA](https://github.com/v2rayA/v2rayA) by [@v2rayA](https://github.com/v2rayA)
+- [nekoray](https://github.com/MatsuriDayo/nekoray) by [MatsuriDayo](https://github.com/MatsuriDayo)
 
 ### macOS (arm64 & x64)
 - [FoXray](https://apps.apple.com/app/foxray/id6448898396) by [@FoXray](https://apps.apple.com/app/foxray/id6448898396)
@@ -48,6 +49,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [hiddify-next](https://github.com/hiddify/hiddify-next) by [@hiddify](https://github.com/hiddify)
 - [Invisible Man - Xray](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) by [@InvisibleManVPN](https://github.com/InvisibleManVPN)
 - [v2rayN](https://github.com/2dust/v2rayN) by [@2dust](https://github.com/2dust)
+- [nekoray](https://github.com/MatsuriDayo/nekoray) by [MatsuriDayo](https://github.com/MatsuriDayo)
 
 ## 🔥 Awesome [Marzban](https://github.com/Gozargah/Marzban)
 
