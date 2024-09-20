@@ -127,6 +127,7 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - [V2IpLimit](https://github.com/houshmand-2005/V2IpLimit) by [@houshmand-2005](https://github.com/houshmand-2005)
 - [WebTemplates](https://github.com/erfjab/WebTemplates) by [@erfjab](https://github.com/erfjab)
 - [X-Ui to Marzban](https://github.com/ItsAML/X-Ui-to-Marzban) by [@ItsAML](https://github.com/ItsAML)
+- [Marzban-node xray core changer](https://github.com/Mkharrati/Nodex) by [@Mkharrati](https://github.com/Mkharrati)
 
 ### Sub Templates
 - [ACLover](https://github.com/AC-Lover/AC-Subcription) by [@AC-Lover](https://github.com/AC-Lover)
