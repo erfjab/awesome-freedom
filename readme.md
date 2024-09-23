@@ -128,6 +128,8 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - [WebTemplates](https://github.com/erfjab/WebTemplates) by [@erfjab](https://github.com/erfjab)
 - [X-Ui to Marzban](https://github.com/ItsAML/X-Ui-to-Marzban) by [@ItsAML](https://github.com/ItsAML)
 - [Marzban Sing-box config template](https://github.com/WhyMan1/marzban-template) by [WhyMan1](https://github.com/WhyMan1)
+- [Marzban-node xray core changer](https://github.com/Mkharrati/Nodex) by [@Mkharrati](https://github.com/Mkharrati)
+
 
 ### Sub Templates
 - [ACLover](https://github.com/AC-Lover/AC-Subcription) by [@AC-Lover](https://github.com/AC-Lover)
