@@ -143,6 +143,10 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - [Marzbanpy](https://github.com/gunsh1p/marzbanpy) by [@gunsh1p](https://github.com/gunsh1p)
 - [Marzpy](https://github.com/mewhrzad/marzpy) by [@mewhrzad](https://github.com/mewhrzad)
 
+## 🔥 Awesome [Marzneshin](https://github.com/marzneshin/marzneshin)
+### Sub Templates
+-  [Matin](https://github.com/MatinDehghanian/Marzneshintemplates) by [@MatinDehghanian](https://github.com/MatinDehghanian)
+
 ## 🔥 Awesome X-UI
 Coming soon...
 
