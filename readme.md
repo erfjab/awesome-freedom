@@ -145,7 +145,13 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 
 ## 🔥 Awesome [Marzneshin](https://github.com/marzneshin/marzneshin)
 ### Sub Templates
--  [Matin](https://github.com/MatinDehghanian/Marzneshintemplates) by [@MatinDehghanian](https://github.com/MatinDehghanian)
+- [FULL LIST](https://github.com/MatinDehghanian/Marzneshintemplates) by [@MatinDehghanian](https://github.com/MatinDehghanian)
+- [Template 1](https://github.com/matinDehghanian/marzneshintemplate1) by [@MatinDehghanian](https://github.com/matinDehghanian)
+- [Template 2](https://github.com/matinDehghanian/marzneshintemplate2) by [@MatinDehghanian](https://github.com/matinDehghanian)
+- [Template 3](https://github.com/matinDehghanian/marzneshintemplate3) by [@MatinDehghanian](https://github.com/matinDehghanian)
+- [Template 4](https://github.com/MatinDehghanian/MarzViteTemplate) by [@MatinDehghanian](https://github.com/matinDehghanian)
+- [Template 5](https://github.com/matinDehghanian/marzneshintemplate5) by [@MatinDehghanian](https://github.com/matinDehghanian)
+- [Template 6](https://github.com/matinDehghanian/marzneshintemplate6) by [@MatinDehghanian](https://github.com/matinDehghanian)
 
 ## 🔥 Awesome X-UI
 Coming soon...
