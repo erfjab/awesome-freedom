@@ -130,6 +130,7 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - [Marzban Sing-box config template](https://github.com/WhyMan1/marzban-template) by [WhyMan1](https://github.com/WhyMan1)
 - [Marzban-node xray core changer](https://github.com/Mkharrati/Nodex) by [@Mkharrati](https://github.com/Mkharrati)
 - [marzban-node-monitor](https://github.com/sm1ky/marzban-node-monitor) by [@sm1ky](https://github.com/sm1ky)
+- [Patrick Status White IP Scanner](https://t.me/Patrick_Status_bot) by [@ILYAGVC](https://github.com/ILYAGVC)
 
 
 ### Sub Templates
@@ -148,7 +149,15 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 -  [Matin](https://github.com/MatinDehghanian/Marzneshintemplates) by [@MatinDehghanian](https://github.com/MatinDehghanian)
 
 ## 🔥 Awesome X-UI
-Coming soon...
+
+### Bots
+- [Patrick Status Bot Builder](https://t.me/Patrick_Status_bot) by [@ILYAGVC](https://github.com/ILYAGVC)
+
+### Sub Templates
+- [Patrick Status Site Builder](https://t.me/Patrick_Status_bot) by [@ILYAGVC](https://github.com/ILYAGVC)
+
+### API
+- [Patrick Status API](https://t.me/Patrick_Status_bot) by [@ILYAGVC](https://github.com/ILYAGVC)
 
 ## 🔥 Awesome Hiddify
 Coming soon...
