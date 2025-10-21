@@ -21,6 +21,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [SaeedDev94/Xray](https://github.com/SaeedDev94/Xray) by [@SaeedDev94](https://github.com/SaeedDev94)
 - [v2rayNG](https://github.com/2dust/v2rayNG) by [@2dust](https://github.com/2dust)
 - [X-flutter](https://github.com/XTLS/X-flutter) by [@XTLS](https://github.com/XTLS)
+- [Amnezia VPN](https://github.com/amnezia-vpn/amnezia-client) by [@amnezia-vpn](https://github.com/amnezia-vpn)
 
 ### iOS & macOS (arm64)
 - [FoXray](https://apps.apple.com/app/foxray/id6448898396) by [@FoXray](https://apps.apple.com/app/foxray/id6448898396)
@@ -31,6 +32,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [hiddify-next](https://github.com/hiddify/hiddify-next) by [@hiddify](https://github.com/hiddify)
 - [v2rayA](https://github.com/v2rayA/v2rayA) by [@v2rayA](https://github.com/v2rayA)
 - [nekoray](https://github.com/MatsuriDayo/nekoray) by [MatsuriDayo](https://github.com/MatsuriDayo)
+- [Amnezia VPN](https://github.com/amnezia-vpn/amnezia-client) by [@amnezia-vpn](https://github.com/amnezia-vpn)
 
 ### macOS (arm64 & x64)
 - [FoXray](https://apps.apple.com/app/foxray/id6448898396) by [@FoXray](https://apps.apple.com/app/foxray/id6448898396)
@@ -38,6 +40,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [hiddify-next](https://github.com/hiddify/hiddify-next) by [@hiddify](https://github.com/hiddify)
 - [V2RayXS](https://github.com/tzmax/V2RayXS) by [@tzmax](https://github.com/tzmax)
 - [V2rayU](https://github.com/yanue/V2rayU) by [@yanue](https://github.com/yanue)
+- [Amnezia VPN](https://github.com/amnezia-vpn/amnezia-client) by [@amnezia-vpn](https://github.com/amnezia-vpn)
 
 ### OpenWrt
 - [luci-app-xray](https://github.com/yichya/luci-app-xray) by [@yichya](https://github.com/yichya) / [openwrt-xray](https://github.com/yichya/openwrt-xray) by [@yichya](https://github.com/yichya)
@@ -50,6 +53,7 @@ This repository curates an awesome collection of panels, scripts, bots, and tuto
 - [Invisible Man - Xray](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) by [@InvisibleManVPN](https://github.com/InvisibleManVPN)
 - [v2rayN](https://github.com/2dust/v2rayN) by [@2dust](https://github.com/2dust)
 - [nekoray](https://github.com/MatsuriDayo/nekoray) by [MatsuriDayo](https://github.com/MatsuriDayo)
+- [Amnezia VPN](https://github.com/amnezia-vpn/amnezia-client) by [@amnezia-vpn](https://github.com/amnezia-vpn)
 
 ## 🔥 Awesome [Marzban](https://github.com/Gozargah/Marzban)
 
@@ -87,6 +91,7 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - [Mirza](https://github.com/mahdiMGF2/botmirzapanel) by [@mahdiMGF2](https://github.com/mahdiMGF2)
 - [VPNbot](https://github.com/bl4ckm45k/vpnbot) by [@bl4ckm45k](https://github.com/bl4ckm45k)
 - [Zanbor](https://github.com/ZanborPanel/ZanborPanel) by [@ZanborPanel](https://github.com/ZanborPanel)
+- [3xui-shop](https://github.com/snoups/3xui-shop) by [@snoups](https://github.com/snoups)
 
 ### Tools/Scripts
 - [Abuse-Defender](https://github.com/Kiya6955/Abuse-Defender) by [@Kiya6955](https://github.com/Kiya6955)
